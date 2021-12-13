@@ -149,7 +149,7 @@ To clean up after this tutorial:
 
 ## Conclusion
 
-To recap, there is a common use case of building [single-page application](https://en.wikipedia.org/wiki/Single-page_application)(SPA) based web apps to lower frontend complexity and provide a standardized development stack. Using the blue/green deployment strategy with your SPA will increase application availability and ensure that spinning up a parallel green environment won’t affect the blue environment resources. This isolation reduces deployment risk by simplifying the rollback process if a deployment fails and always having a known “good” environment ready to serve users.
+To recap, there is a common use case of building [single-page application](https://en.wikipedia.org/wiki/Single-page_application) (SPA) based web apps to lower frontend complexity and provide a standardized development stack. Using the blue/green deployment strategy with your SPA will increase application availability and ensure that spinning up a parallel green environment won’t affect the blue environment resources. This isolation reduces deployment risk by simplifying the rollback process if a deployment fails and always having a known “good” environment ready to serve users.
 
 ## Security
 
